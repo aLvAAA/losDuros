@@ -1,0 +1,134 @@
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.AltaRol.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Inicio.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.pdb
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.listadoRol.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.BajaRol.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.ModificacionRol.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.AltaCiudad.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.listadoCiudad.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.BajaCiudad.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.ModificacionCiudad.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.AltaRuta.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.listadoRuta.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.BajaRuta.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.ModificacionRuta.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.pdb
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.AltaCiudad.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.BajaCiudad.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.listadoCiudad.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.ModificacionCiudad.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.AltaRol.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.BajaRol.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.listadoRol.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.ModificacionRol.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.RolForm.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.AltaRuta.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.BajaRuta.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.ModificacionRuta.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.listadoRuta.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Inicio.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Properties.Resources.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csproj.GenerateResource.Cache
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.InicioCliente.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Default.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Login_Form.Login.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Viaje.AltaViaje.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.InicioCliente.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Default.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Login_Form.Login.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form1.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form2.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form3.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form5.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form5.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form4.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form3.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form1.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form2.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Viaje.AltaViaje.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.Form1.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.Form2.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.ConsultaMillas.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleCanje.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleEncomienda.resources
+C:\Users\Jupiter\Documents\GitHub\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleViaje.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.ConsultaMillas.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleCanje.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleEncomienda.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleViaje.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Comprador.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Devolucion.DetallesDevolucion.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Devolucion.IngresoPNR.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Listado_Estadistico.MostrarListado.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Listado_Estadistico.SeleccionarListado.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.SeleccionarAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.RegistrarLlegada.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Canje_Millas.CanjeMillas.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.AltaAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.CancelarReasignarAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.FueraDeServicioAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.listadoAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.ModificacionAeronave.resources
+C:\Users\Sebastian\Desktop\UTN\GDD\Aplicacion Desktop\tp-2015-aerolinea\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.BajaAeronaveTipo.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.pdb
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csprojResolveAssemblyReference.cache
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.AltaAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.BajaAeronaveTipo.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.CancelarReasignarAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.FueraDeServicioAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.listadoAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Aeronave.ModificacionAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.AltaCiudad.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.BajaCiudad.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.listadoCiudad.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ciudad.ModificacionCiudad.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.AltaRol.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.BajaRol.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.listadoRol.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Rol.ModificacionRol.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.AltaRuta.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.BajaRuta.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.ModificacionRuta.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Ruta.listadoRuta.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Canje_Millas.CanjeMillas.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form5.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Comprador.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form3.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form1.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Compra_Pasaje.Form2.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.ConsultaMillas.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleCanje.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleEncomienda.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Consulta_Millas.DetalleViaje.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Devolucion.DetallesDevolucion.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Devolucion.IngresoPNR.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Abm_Viaje.AltaViaje.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Listado_Estadistico.MostrarListado.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Listado_Estadistico.SeleccionarListado.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Login_Form.Login.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.InicioCliente.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Default.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Inicio.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Properties.Resources.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.SeleccionarAeronave.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.Registro_destino.RegistrarLlegada.resources
+C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
+C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
+C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb

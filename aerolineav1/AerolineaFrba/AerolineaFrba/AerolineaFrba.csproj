@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8AFC41B8-7879-445C-A791-66EA9C7CC274}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AerolineaFrba</RootNamespace>
+    <AssemblyName>AerolineaFrba</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abm Aeronave\AltaAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\AltaAeronave.Designer.cs">
+      <DependentUpon>AltaAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Aeronave\BajaAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\BajaAeronave.Designer.cs">
+      <DependentUpon>BajaAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Aeronave\CancelarOReasignar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\CancelarOReasignar.Designer.cs">
+      <DependentUpon>CancelarOReasignar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Aeronave\FueraDeServicioAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\FueraDeServicioAeronave.Designer.cs">
+      <DependentUpon>FueraDeServicioAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Aeronave\listadoAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\listadoAeronave.Designer.cs">
+      <DependentUpon>listadoAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Aeronave\ModificacionAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Aeronave\ModificacionAeronave.Designer.cs">
+      <DependentUpon>ModificacionAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ciudad\AltaCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ciudad\AltaCiudad.Designer.cs">
+      <DependentUpon>AltaCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ciudad\BajaCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ciudad\BajaCiudad.Designer.cs">
+      <DependentUpon>BajaCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ciudad\listadoCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ciudad\listadoCiudad.Designer.cs">
+      <DependentUpon>listadoCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ciudad\ModificacionCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ciudad\ModificacionCiudad.Designer.cs">
+      <DependentUpon>ModificacionCiudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Rol\AltaRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Rol\AltaRol.Designer.cs">
+      <DependentUpon>AltaRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Rol\BajaRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Rol\BajaRol.Designer.cs">
+      <DependentUpon>BajaRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Rol\listadoRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Rol\listadoRol.Designer.cs">
+      <DependentUpon>listadoRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Rol\ModificacionRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Rol\ModificacionRol.Designer.cs">
+      <DependentUpon>ModificacionRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ruta\AltaRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ruta\AltaRuta.Designer.cs">
+      <DependentUpon>AltaRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ruta\BajaRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ruta\BajaRuta.Designer.cs">
+      <DependentUpon>BajaRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ruta\ModificacionRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ruta\ModificacionRuta.Designer.cs">
+      <DependentUpon>ModificacionRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abm Ruta\listadoRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm Ruta\listadoRuta.Designer.cs">
+      <DependentUpon>listadoRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Canje Millas\CanjeMillas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Canje Millas\CanjeMillas.Designer.cs">
+      <DependentUpon>CanjeMillas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra Pasaje\Class1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra Pasaje\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Millas\ConsultaMillas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Millas\ConsultaMillas.designer.cs">
+      <DependentUpon>ConsultaMillas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleCanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleCanje.designer.cs">
+      <DependentUpon>DetalleCanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleEncomienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleEncomienda.designer.cs">
+      <DependentUpon>DetalleEncomienda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleViaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Millas\DetalleViaje.designer.cs">
+      <DependentUpon>DetalleViaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Devolucion\DetallesDevolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Devolucion\DetallesDevolucion.Designer.cs">
+      <DependentUpon>DetallesDevolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generacion Viaje\AltaViaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generacion Viaje\AltaViaje.Designer.cs">
+      <DependentUpon>AltaViaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado Estadistico\MostrarListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado Estadistico\MostrarListado.Designer.cs">
+      <DependentUpon>MostrarListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCliente.Designer.cs">
+      <DependentUpon>MenuCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Devolucion\IngresoPNR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Devolucion\IngresoPNR.Designer.cs">
+      <DependentUpon>IngresoPNR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Default.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Default.Designer.cs">
+      <DependentUpon>Default.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GD2C2015DataSet.cs">
+      <DependentUpon>GD2C2015DataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GD2C2015DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GD2C2015DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listado Estadistico\SeleccionarListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado Estadistico\SeleccionarListado.Designer.cs">
+      <DependentUpon>SeleccionarListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Model\Rol.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro Llegada Destino\SeleccionarAeronave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro Llegada Destino\SeleccionarAeronave.Designer.cs">
+      <DependentUpon>SeleccionarAeronave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro Llegada Destino\RegistrarLLegada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro Llegada Destino\RegistrarLLegada.Designer.cs">
+      <DependentUpon>RegistrarLLegada.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abm Aeronave\AltaAeronave.resx">
+      <DependentUpon>AltaAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Aeronave\BajaAeronave.resx">
+      <DependentUpon>BajaAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Aeronave\CancelarOReasignar.resx">
+      <DependentUpon>CancelarOReasignar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Aeronave\FueraDeServicioAeronave.resx">
+      <DependentUpon>FueraDeServicioAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Aeronave\listadoAeronave.resx">
+      <DependentUpon>listadoAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Aeronave\ModificacionAeronave.resx">
+      <DependentUpon>ModificacionAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ciudad\AltaCiudad.resx">
+      <DependentUpon>AltaCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ciudad\BajaCiudad.resx">
+      <DependentUpon>BajaCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ciudad\listadoCiudad.resx">
+      <DependentUpon>listadoCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ciudad\ModificacionCiudad.resx">
+      <DependentUpon>ModificacionCiudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Rol\AltaRol.resx">
+      <DependentUpon>AltaRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Rol\BajaRol.resx">
+      <DependentUpon>BajaRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Rol\listadoRol.resx">
+      <DependentUpon>listadoRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Rol\ModificacionRol.resx">
+      <DependentUpon>ModificacionRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ruta\AltaRuta.resx">
+      <DependentUpon>AltaRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ruta\BajaRuta.resx">
+      <DependentUpon>BajaRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ruta\ModificacionRuta.resx">
+      <DependentUpon>ModificacionRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm Ruta\listadoRuta.resx">
+      <DependentUpon>listadoRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Canje Millas\CanjeMillas.resx">
+      <DependentUpon>CanjeMillas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra Pasaje\Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra Pasaje\Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra Pasaje\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra Pasaje\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra Pasaje\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Millas\ConsultaMillas.resx">
+      <DependentUpon>ConsultaMillas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Millas\DetalleCanje.resx">
+      <DependentUpon>DetalleCanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Millas\DetalleEncomienda.resx">
+      <DependentUpon>DetalleEncomienda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Millas\DetalleViaje.resx">
+      <DependentUpon>DetalleViaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devolucion\DetallesDevolucion.resx">
+      <DependentUpon>DetallesDevolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devolucion\IngresoPNR.resx">
+      <DependentUpon>IngresoPNR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generacion Viaje\AltaViaje.resx">
+      <DependentUpon>AltaViaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado Estadistico\MostrarListado.resx">
+      <DependentUpon>MostrarListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado Estadistico\SeleccionarListado.resx">
+      <DependentUpon>SeleccionarListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCliente.resx">
+      <DependentUpon>MenuCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Default.resx">
+      <DependentUpon>Default.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registro Llegada Destino\SeleccionarAeronave.resx">
+      <DependentUpon>SeleccionarAeronave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro Llegada Destino\RegistrarLLegada.resx">
+      <DependentUpon>RegistrarLLegada.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GD2C2015DataSet.xsc">
+      <DependentUpon>GD2C2015DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GD2C2015DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GD2C2015DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GD2C2015DataSet.xss">
+      <DependentUpon>GD2C2015DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Default\" />
+    <Folder Include="Registro de Usuario\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
