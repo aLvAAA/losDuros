@@ -1,0 +1,191 @@
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmSeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Buscador.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Calendario.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Pais.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.NuevaContraseña.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Buscador.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Calendario.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.NuevaContraseña.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Pais.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\Gestión\TP\tp 2015\3\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.DesvinculacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Buscador.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Calendario.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.DesvinculacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.NuevaContraseña.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Pais.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Buscador.resources
+C:\Documents and Settings\IEUser\Desktop\TP Final\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Documento.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Acerca.Acerca.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Estado.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.DesvinculacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjetaVencida.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Consulta.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaFacturacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaInhabilitadas.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaMovimientos.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTotalFacturado.resources
+C:\Documents and Settings\IEUser\Desktop\TP\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTransaccion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Buscador.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Calendario.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.DesvinculacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificacionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.NuevaContraseña.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Pais.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjeta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjetaVencida.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Alta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Modificacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Acerca.Acerca.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Estado.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Consulta.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaFacturacion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaInhabilitadas.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaMovimientos.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTotalFacturado.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTransaccion.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.SeleccionRol.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Documento.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Documents and Settings\IEUser\Desktop\TP(16-7)\TP\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Alta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaTarjeta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Buscador.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Calendario.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.DesvinculacionTarjeta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Modificacion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificacionTarjeta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.NuevaContraseña.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Pais.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjeta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionTarjetaVencida.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Alta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Modificacion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Alta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.SeleccionRol.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Alta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Modificacion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Acerca.Acerca.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Estado.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturacion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.Consulta.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaFacturacion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaInhabilitadas.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaMovimientos.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTotalFacturado.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Listados.ListaTransaccion.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.frm_programa.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Login.frm_login.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Login.SeleccionRol.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Documento.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\admin\Downloads\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
