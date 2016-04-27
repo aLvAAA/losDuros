@@ -132,3 +132,6 @@ C:\Users\admin\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.c
 C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
 C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
 C:\Users\admin\Desktop\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb
+C:\Users\admin\Desktop\losDuros\aerolineav1\AerolineaFrba\AerolineaFrba\bin\Debug\AerolineaFrba.exe.config
+C:\Users\admin\Desktop\losDuros\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.exe
+C:\Users\admin\Desktop\losDuros\aerolineav1\AerolineaFrba\AerolineaFrba\obj\Debug\AerolineaFrba.pdb
