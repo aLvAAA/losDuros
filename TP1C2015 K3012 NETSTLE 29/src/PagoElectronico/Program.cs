@@ -19,7 +19,7 @@ namespace PagoElectronico
                 //con esto nos conectamos
                 SqlConnection sqlCon = null;
                 //creo una instancia del conector de la base de datos
-                sqlCon = new SqlConnection( "server=localhost\\SQLSERVER2008; initial catalog=GD1C2015; user id=gd; password=gd2015");
+                sqlCon = new SqlConnection( "server=localhost\\SQLSERVER2012; initial catalog=GD1C2016; user id=gd; password=gd2016");
                 //nos conectamos
                 sqlCon.Open();
 

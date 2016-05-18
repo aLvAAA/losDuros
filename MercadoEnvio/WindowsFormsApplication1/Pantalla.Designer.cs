@@ -1,6 +1,6 @@
-﻿namespace WindowsFormsApplication1.ABM_Rol
+﻿namespace WindowsFormsApplication1
 {
-    partial class Form1
+    partial class Pantalla
     {
         /// <summary>
         /// Required designer variable.
@@ -28,11 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Pantalla
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(804, 501);
+            this.Name = "Pantalla";
+            this.Text = "Pantalla";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+
+
     }
 }

@@ -472,5 +472,10 @@ namespace PagoElectronico
 
             frmCons.Show();
         }
+
+        private void aBMRolToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
