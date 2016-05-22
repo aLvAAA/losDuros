@@ -232,3 +232,6 @@ C:\Users\admin\Desktop\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\ob
 C:\Users\admin\Desktop\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
 C:\Users\admin\Desktop\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
 C:\Users\admin\Desktop\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\Pavilion\Documents\GitHub\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Pavilion\Documents\GitHub\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\Pavilion\Documents\GitHub\losDuros\TP1C2015 K3012 NETSTLE 29\src\PagoElectronico\obj\Debug\PagoElectronico.pdb

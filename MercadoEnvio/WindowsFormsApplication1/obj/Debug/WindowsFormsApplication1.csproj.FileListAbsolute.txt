@@ -11,3 +11,16 @@ C:\Users\admin\Desktop\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\
 C:\Users\admin\Desktop\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pantalla.resources
 C:\Users\admin\Desktop\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABM_Rol.SeleccionRol.resources
 C:\Users\admin\Desktop\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.SeleccionRol.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABM_Rol.SeleccionRol.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABM_Visibilidad.Visibilidad.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.SeleccionRol.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pantalla.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.frm_login.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pavilion\Documents\GitHub\losDuros\MercadoEnvio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
