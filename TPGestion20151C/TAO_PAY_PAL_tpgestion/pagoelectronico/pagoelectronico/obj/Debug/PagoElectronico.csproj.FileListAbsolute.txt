@@ -1,0 +1,253 @@
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\sa\Desktop\PagoElectronico (1)\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\TP1C2015 k3051 TAO_PAY_PAL11\src\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\TP_Gestion\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\GEstionDeDatos\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\GEstionDeDatos\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\GEstionDeDatos\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\puebaGD\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\puebaGD\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\puebaGD\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\Basura\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\Eric\Dropbox\Tao Pay Pal\SOLUCION\Aplicacion Desktop\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\1307\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.TransfExitosa.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\modifaSubir14.07\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmComprobanteDepo.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmDepositos.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\15.07Modifi\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmComprobanteDepo.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmDepositos.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmComprobanteRetiro.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\Desktop\UltimaModificacion\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmComprobanteDepo.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmDepositos.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmComprobanteRetiro.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\alvaro\UltimasModificacionesTransferencia\Aplicacion Desktop\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Users\Eric\Desktop\pagoelectronico\pagoelectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe.config
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmABMCliente.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.frmTarjeta.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.frmABMCuenta.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.frmAltaUsuarioCliente.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.frmAbmRol.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.frmConsultarSaldo.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmComprobanteDepo.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.frmDepositos.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.frmFacturacion.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.frmFuncionalidades.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.frmListados.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmLogin.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.frmMasDeUnRol.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmComprobanteRetiro.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.frmRetiroEfectivo.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Transferencia.resources
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Users\Usuario\Downloads\TPGestion20151C\TAO_PAY_PAL_tpgestion\pagoelectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
